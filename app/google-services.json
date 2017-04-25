@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "210569641811",
+    "firebase_url": "https://smartswitchgit.firebaseio.com",
+    "project_id": "smartswitchgit",
+    "storage_bucket": "smartswitchgit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210569641811:android:f651e7e43934d5a4",
+        "android_client_info": {
+          "package_name": "com.yoman.thingssmartswitchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210569641811-54ncia0o0u1u6jj64urr4bo9omihln6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcqgD-jtimiQIQyw0URtTeZe3FrZmQ9aY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210569641811:android:0dbc6c244ac4c6a2",
+        "android_client_info": {
+          "package_name": "com.yoman.smartswitchclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210569641811-54ncia0o0u1u6jj64urr4bo9omihln6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcqgD-jtimiQIQyw0URtTeZe3FrZmQ9aY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
