@@ -5,6 +5,8 @@ Using Android Things iot OS via Raspberry pi 3 to switch LED bulb on/off via And
 
 Check it in action on https://www.youtube.com/watch?v=XFgwbbD7fMY.
  
+The companion app running Android Things on Raspberry pi 3 : https://github.com/DroidLove/SmartSwitch
+ 
  ## License
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
